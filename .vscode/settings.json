@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "cstdlib": "cpp"
+    }
+
+    
+      
+}
